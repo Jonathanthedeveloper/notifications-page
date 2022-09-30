@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Jonathanthedeveloper/notifications-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://notifications-page-eight.vercel.app/))
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Errorman2003))
 - Twitter - [@yourusername](https://www.twitter.com/err_or_man)
 
 
